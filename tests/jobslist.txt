@@ -1,0 +1,7 @@
+Arhiving and move uu_unoin
+Mnt_uuc_union.backup_rukami
+syspolicy_purge_history
+mnt_uu_union_backup_logs.backup_logs
+Mnt_uuc_union.Vecher_diff
+mnt_uuc_union_backup_logs.Subplan_1
+Mnt_uu_union.Backup_rukami
