@@ -1,0 +1,19 @@
+Arhiving and move uuc_unoin
+Mnt_utc_union.Saturday
+Mnt_uu_union.diff_once
+Arhiving and move utc_union
+Mnt_uu_union.vecher_diff
+Mnt_uu_union.Backup_rukami
+mnt_uuc_union_backup_logs.Subplan_1
+Mnt_uuc_union.Vecher_diff
+mnt_uu_union_backup_logs.backup_logs
+syspolicy_purge_history
+Mnt_uuc_union.backup_rukami
+Arhiving and move uu_unoin
+Mnt_uuc_union.vecher_full
+Mnt_uu_union.Saturday
+Backup_progress_info
+Mnt_utc_union.vecher
+Mnt_uu_union.obnova_after
+Mnt_uu_union.backup_diff_rukami
+Mnt_uu_union.vecher_full

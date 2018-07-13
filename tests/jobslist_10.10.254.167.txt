@@ -1,0 +1,4 @@
+rebuild indexes.Subplan_1
+copy ut_2010.bak to asql01
+Arhiving and move ut_2010
+syspolicy_purge_history
