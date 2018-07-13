@@ -1,9 +1,0 @@
-rebuild indexes.Subplan_1
-copy ut_2010.bak to asql01
-Arhiving and move ut_2010
-Mnt_uuc_union.backup_rukami
-syspolicy_purge_history
-mnt_uu_union_backup_logs.backup_logs
-Mnt_uuc_union.Vecher_diff
-mnt_uuc_union_backup_logs.Subplan_1
-Mnt_uu_union.Backup_rukami
