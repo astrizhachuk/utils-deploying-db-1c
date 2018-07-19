@@ -12,7 +12,7 @@
             "args": [
                 "-d",
                 "kick",
-                "./tests/env.json"
+                "./tests/sample.json"
             ],
             "cwd": "${workspaceRoot}",
             "runtimeExecutable": null,
