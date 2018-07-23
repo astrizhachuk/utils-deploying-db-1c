@@ -10,9 +10,11 @@
             "request": "launch",
             "program": "C:\\Users\\a.strizhachuk\\github\\utils-deploying-db-1c\\src\\cu.os",
             "args": [
+                "--v8version",
+                "8.3.10",
                 "-d",
                 "kick",
-                "-b", "фывафвыаывафыафывафыв",
+                "-b", "/Sstd-app03.stdp.ru\\ut_auto_test",
                 "./tests/sample.json"
             ],
             "cwd": "${workspaceRoot}",
