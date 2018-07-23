@@ -12,6 +12,7 @@
             "args": [
                 "-d",
                 "kick",
+                "-b", "фывафвыаывафыафывафыв",
                 "./tests/sample.json"
             ],
             "cwd": "${workspaceRoot}",
