@@ -6,6 +6,7 @@
         "--ibconnection": "\\SЕУЫЕ/ЕУЫЕ",
         "--storage-name": "\\\\regulations_1c.fs.stdp.ru\\repos\\UT",
 		"--storage-user": "ut_2010_upd",
-		"--storage-pwd": "ut_2010_upd"
+        "--storage-pwd": "ut_2010_upd",
+        "--lock": false
     }
 }
