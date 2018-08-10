@@ -11,7 +11,7 @@
             "program": "C:\\Users\\a.strizhachuk\\github\\utils-deploying-db-1c\\src\\cu.os",
             "args": [
                 "--v8version",
-                "8.3.10",
+                "8.2",
                 "-d",
                 "kill",
                 "-l",
@@ -20,7 +20,7 @@
                 "-s",
                 "2040-12-31T23:59:59",
                 "-b",
-                "/Sstd-app03.stdp.ru\\ut_auto_test",
+                "/Sstd-app03.stdp.ru\\ut_msk_copy5",
                 "-f",
                 "appid=1CV8|name=ОбновлениеБазы",
                 "./tests/sample.json"
